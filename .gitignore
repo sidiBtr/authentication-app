@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Environment variables
+.env
+
+# User-specific files
+.vscode/
+.DS_Store
+
+# Editor config
+*.editorconfig
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS-generated files
+ehthumbs.db
+Thumbs.db
+
+
